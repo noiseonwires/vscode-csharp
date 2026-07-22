@@ -4,6 +4,7 @@
 - Debug from .csproj and .sln [#5876](https://github.com/dotnet/vscode-csharp/issues/5876)
 
 # 2.147.x
+* Update xamlTools to 18.10.12020.329 (PR: [#9999](https://github.com/dotnet/vscode-csharp/pull/9999))
 * Update Roslyn to 5.10.0-1.26367.9 (PR: [#9547](https://github.com/dotnet/vscode-csharp/pull/9547))
   * Add project and state unloading to the BuildHost  (PR: [#84524](https://github.com/dotnet/roslyn/pull/84524))
   * Prevent generated Razor methods from being mapped as user edits (PR: [#84526](https://github.com/dotnet/roslyn/pull/84526))
